@@ -1,2 +1,2 @@
 # dockertest
-Exploring the liberal dockertest, but using Rodman
+Exploring https://github.com/ory/dockertest, but with Podman on MacOS.
